@@ -1,10 +1,11 @@
 import DemoComponent from "./DemoComponent";
+import HelpCenterPage from "./pages/HelpCenterPage";
 
 
 function App() {
   return (
     <div>
-   <DemoComponent />
+      <HelpCenterPage />
     </div>
   );
 }
